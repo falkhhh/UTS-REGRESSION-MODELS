@@ -24,6 +24,8 @@ text-align: justify}
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+# Soal 1
+
 ## Langkah 1 Buat Correlation Matrix
 ```{r}
 # Langkah Awal: Memuat Data
